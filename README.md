@@ -1,8 +1,6 @@
 # React + Vite
+Within this app i have used  vite with react js to   implemente routing and different unit testing with vitest as recommended testing framework,I only focused on provided Dashboard and different features like multilanguages and dark mode toggling which was essentials for the project,
+I didn't focuse on other Navigations and sidebar links as I had no clear view of their functions 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+to run the project locally 
+--- cd to the project folder and npm install then npm run dev 
